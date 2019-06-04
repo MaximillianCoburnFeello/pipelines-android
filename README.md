@@ -1,3 +1,5 @@
+# Build Status 
+[![Build Status](https://dev.azure.com/MaximillianCoburnCITest/CI-Test/_apis/build/status/MaximillianCoburnFeello.pipelines-android?branchName=master)](https://dev.azure.com/MaximillianCoburnCITest/CI-Test/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
